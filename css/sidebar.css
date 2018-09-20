@@ -22,6 +22,13 @@
   -ms-transform: rotateY(720deg);
   transform: rotateY(720deg);
 }
+.info .wechat {
+  width: 90%;
+  display: block;
+  margin: 1em auto;
+  border: 0.3em solid #fff;
+  border-radius: 50%;
+}
 .info .author-name {
   color: #26272b;
   font-size: 1.8em;
